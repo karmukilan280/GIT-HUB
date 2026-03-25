@@ -10,5 +10,6 @@ This repository is created as part of GitHub workshop submission.
 
 📂 Contents
 README.md
+HELLO.c
 🔗 Submission
 This repository is submitted for evaluation.
